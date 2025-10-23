@@ -123,9 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Layer.h" />
     <ClInclude Include="Tensor.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Layer.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Tensor.cpp" />
   </ItemGroup>
