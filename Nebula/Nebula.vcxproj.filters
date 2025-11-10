@@ -21,6 +21,9 @@
     <ClInclude Include="Layer.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="Neuron.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Tensor.cpp">
@@ -30,6 +33,9 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="Layer.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Neuron.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
